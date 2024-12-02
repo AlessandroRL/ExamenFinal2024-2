@@ -29,5 +29,15 @@ public class Main {
         FacturaHandler.procesarFactura(tiendaUUID, facturaJSON);
 
         FacturaHandler.consultarFactura(tiendaUUID, "token123", "10000001", 1);
+
+        try {
+            Connection connection = DatabaseConnection.getConnection();
+            System.out.println("Conexión exitosa a la base de datos.");
+            // Cerrar la conexión
+            connection.close();
+        } catch (SQLException e) {
+            e.printStackTrace();
+            System.out.println("Error al conectar con la base de datos.");
+        }
     }
 }
