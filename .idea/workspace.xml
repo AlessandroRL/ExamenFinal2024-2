@@ -4,21 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a781055-f6d9-4a98-9b98-118957c86091" name="Changes" comment="Intento de mejora conexion con servidor">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com.example.facturacion/DatabaseConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.example.facturacion/DatabaseConnection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com.example.facturacion/FacturaHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.example.facturacion/FacturaHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com.example.facturacion/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.example.facturacion/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/models/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/models/Factura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/Factura.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/models/MedioPago.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/MedioPago.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/models/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/Producto.java" afterDir="false" />
-    </list>
+    <list default="true" id="0a781055-f6d9-4a98-9b98-118957c86091" name="Changes" comment="Intento de mejora conexion con servidor" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -41,16 +38,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "MavenSettings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Probar base de datos" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.example.facturacion.Main" />
@@ -83,7 +80,21 @@
       <option name="project" value="LOCAL" />
       <updated>1733184783469</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Intento de mejora conexion con servidor">
+      <created>1733185009472</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733185009472</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Intento de mejora conexion con servidor">
+      <created>1733185149673</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1733185149673</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
