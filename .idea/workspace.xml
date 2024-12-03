@@ -4,20 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a781055-f6d9-4a98-9b98-118957c86091" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com.example.facturacion/DatabaseConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com.example.facturacion/FacturaHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com.example.facturacion/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/models/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/models/Factura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/models/MedioPago.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/models/Producto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+    <list default="true" id="0a781055-f6d9-4a98-9b98-118957c86091" name="Changes" comment="Intento de mejora conexion con servidor">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.example.facturacion/DatabaseConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.example.facturacion/DatabaseConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.example.facturacion/FacturaHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.example.facturacion/FacturaHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.example.facturacion/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.example.facturacion/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/Factura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/Factura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/MedioPago.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/MedioPago.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/Producto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +69,36 @@
       <option name="presentableId" value="Default" />
       <updated>1733179249513</updated>
     </task>
+    <task id="LOCAL-00001" summary="Intento de mejora conexion con servidor">
+      <created>1733184661338</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733184661338</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Intento de mejora conexion con servidor">
+      <created>1733184783469</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733184783469</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Intento de mejora conexion con servidor" />
+    <option name="LAST_COMMIT_MESSAGE" value="Intento de mejora conexion con servidor" />
   </component>
 </project>
